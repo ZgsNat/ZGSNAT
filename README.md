@@ -15,7 +15,7 @@ I am always open to new opportunities and challenges. If you would like to reach
 
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZgsNat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZgsNat&theme=merko&hide_border=true&layout=compact&langs_count=8&cache_seconds=1&exclude_repo=Immortal_Ninja" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZgsNat&theme=merko&hide_border=true&layout=compact&langs_count=8&cache_seconds=1&exclude_repo=Immortal_Ninja,CSharp_Project" />
 </div>
 
 
