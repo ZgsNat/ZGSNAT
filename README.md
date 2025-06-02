@@ -11,7 +11,7 @@
 
 - Through leading multiple projects, I’ve realized that the core value of this industry lies not just in coding, but in the ability to connect, communicate, embrace new ideas, and continuously evolve one’s mindset.
 
-I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message.
+Love to start up, also try new things. I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message.
 
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZgsNat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=merko" />
