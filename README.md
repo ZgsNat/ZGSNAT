@@ -15,7 +15,7 @@ Love to start up, also try new things. I am always open to new opportunities and
 
 <div align="center">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZgsNat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=10&theme=radical" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZgsNat&theme=merko&hide_border=true&layout=compact&langs_count=8&exclude_repo=Immortal_Ninja,CSharp_Project&cache_seconds=10" />
+	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZgsNat&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=Immortal_Ninja,CSharp_Project&cache_seconds=10" />
 </div>
 
 
