@@ -7,7 +7,7 @@
 <!-- ![Divider](https://img.shields.io/badge/-|-0d1117?style=for-the-badge)
 ![Visitor Count](https://komarev.com/ghpvc/?username=ZgsNat&style=for-the-badge) -->
 
-- I enjoy tackling diverse challenges and have a strong ability to adapt to achieve my goals. Transitioning from a software engineer to an AI engineer was no easy feat, but I made it happen.
+- I enjoy tackling diverse challenges and have a strong ability to adapt to achieve my goals. The transition from pure Software Engineering to an AI-driven mindset wasn't just about learning new tech; it was about evolving how I solve problems in a data-centric world.
 
 - Through leading multiple projects, I’ve realized that the core value of this industry lies not just in coding, but in the ability to connect, communicate, embrace new ideas, and continuously evolve one’s mindset.
 
