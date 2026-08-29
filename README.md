@@ -12,13 +12,6 @@
 - Through leading multiple projects, I’ve realized that the core value of this industry lies not just in coding, but in the ability to connect, communicate, embrace new ideas, and continuously evolve one’s mindset.
 
 Love to start up, also try new things. I am always open to new opportunities and challenges. If you would like to reach me, feel free to drop me a message.
-
-<div align="center">
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ZgsNat&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=10&theme=radical" />
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZgsNat&theme=radical&hide_border=true&layout=compact&langs_count=8&exclude_repo=Immortal_Ninja,CSharp_Project&cache_seconds=10" />
-</div>
-
-
 <!-- <div align="center">
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ZgsNat&theme=onedark&hide_border=true"/>
 </div> -->
